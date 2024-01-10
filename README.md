@@ -50,16 +50,14 @@ All of this has actually caused me to rotate my primary screen, as I no longer h
 ### Extensions
 
 - [Which Key extension](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.whichkey) - the enabler.
-- [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - spacemacs-like bindings.
+- [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - spacemacs-like bindings for Which Key.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file) - create a new file in a location (instead of creating a new untitled)
 - [Better Search](https://marketplace.visualstudio.com/items?itemName=travisthieman.better-search) - search solution. Results open as an editor with links to the results. This removes most of the needs for the search sidebar.
 - [Fuzzy Search](https://marketplace.visualstudio.com/items?itemName=jacobdufault.fuzzy-search) - Fuzzy search in active file
 - [File Browser](https://marketplace.visualstudio.com/items?itemName=bodil.file-browser) - Keyboard-driven file browser.
 
-## The Challenges Along the Way:
+## Conclusion
 
 Adopting this setup wasn't without its challenges. The initial weeks (months) with the new keyboard were riddled with typos and slow typing speeds as my fingers adjusted to the new layout. Customizing VSCode was a task of trial and error, balancing functionality with simplicity. But with each passing day, muscle memory kicked in, and the advantages began to outweigh the initial discomfort.
 
-## Conclusion
-
-This journey with my Planck keyboard and customized VSCode setup has been more than just about efficiency; it's been a journey of learning and personalization. It's a testament to how a bit of curiosity and willingness to experiment can lead to a significantly improved coding experience. For fellow developers looking to enhance their workflow, I highly recommend exploring the world of custom keyboards and IDE customizations. It might just change the way you code. And to answer your question; No, I will never get back the hours I have spent customizing my IDE or keyboard. If I had just done my job instead, productivity would have been way higher - but where's the fun in that?
+This journey has been more than just about efficiency; it's been a journey of learning and personalization. It's a testament to how a bit of curiosity and willingness to experiment can lead to a significantly improved coding experience. For fellow developers looking to enhance their workflow, I highly recommend exploring the world of custom keyboards and IDE customizations. It might just change the way you code. And to answer your question; No, I will never get back the hours I have spent customizing my IDE or keyboard. If I had just done my job instead, productivity would have been way higher - but where's the fun in that?
